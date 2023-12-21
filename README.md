@@ -12,7 +12,7 @@ Sử dụng kỹ năng phân tích dữ liệu, hãy đoán xem 6 vật thể n�
 -- A: Tên vật thể \
 -- B: Các góc quay quan trọng \
 -- C: Số lần dao động được đếm trước để đối chiếu kết quả
-- Output:
+- Output: \
 -- rep: là số lần dao động của vật thể đó. \
 -- Lưu ý: KHÔNG SỬ DỤNG MACHINE/DEEP LEARNING.
 
