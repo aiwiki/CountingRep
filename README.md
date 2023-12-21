@@ -8,13 +8,13 @@ Long đã đặt 8 máy quay ở 8 góc để quan sát số lần dao động c
 
 ## Đề bài
 Sử dụng kỹ năng phân tích dữ liệu, hãy đoán xem 6 vật thể này dao động bao nhiêu lần
-- Input: tên file có dạng A-B-C.csv (cách nhau bởi dấu "-") với
--- A: Tên vật thể
--- B: Các góc quay quan trọng
+- Input: tên file có dạng A-B-C.csv (cách nhau bởi dấu "-") với \
+-- A: Tên vật thể \
+-- B: Các góc quay quan trọng \
 -- C: Số lần dao động được đếm trước để đối chiếu kết quả
 - Output:
--- rep: là số lần dao động của vật thể đó.
--- Lưu ý: KHÔNG SỬ DỤNG MACHINE/DEEP LEARNING.
+-- rep: là số lần dao động của vật thể đó. \
+-- Lưu ý: KHÔNG SỬ DỤNG MACHINE/DEEP LEARNING. \
 
 ## Yêu cầu:
 Code dưới dạng hàm, bài nộp mẫu:
